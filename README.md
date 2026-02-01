@@ -41,7 +41,7 @@ cd /sdcard && git clone https://github.com/developertk1/TK1MD
 ```
 
 ```bash
-cd Naufrabot-base
+cd TKMD
 ```
 
 ```bash
