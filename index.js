@@ -36,7 +36,7 @@ const chalk = require('chalk')
 const color = (text, color) => { return !color ? chalk.green(text) : chalk.keyword(color)(text) };
  
  //baner
-const banner = cfonts.render("Naufra| Bot| Base", {
+const banner = cfonts.render("TK1| Bot| Base", {
   font: 'pallet',
   align: 'center',
   gradient: ["green","blue"]
@@ -96,7 +96,7 @@ if (horap >= '01' && horap <= '05') {
 
 
  //Configuraciones 
-var { creador, owner, Bot, JpgBot, API_KEY_NAUFRA } = require("./settings/settings.json");        
+var { creador, owner, Bot, JpgBot, API_KEY_TK1 } = require("./settings/settings.json");        
 const prefixo = ['#','/','•','.','!','?','*']// @ Prefijos
 
 
