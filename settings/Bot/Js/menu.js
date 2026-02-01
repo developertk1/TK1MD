@@ -8,8 +8,8 @@ return `
 │❐  ꦿ𝙋𝙍𝙀𝙁𝙄𝙅𝙊 : 𝐌𝐮𝐥𝐭𝐢𝐩𝐫𝐞𝐟𝐢𝐣𝐨
 │❐  ꦿ𝙂𝙍𝙐𝙋𝙊 : ${groupName}
 ┃╭───────────────❍
-┃│❍ᴄᴏᴍᴏ ᴘᴇʀᴢᴏɴᴀʟɪᴢᴀʀ ᴇʟ ʙᴏᴛ 👇
-┃│https://youtube.com/playlist?list=PLsjiVxv1dUKw1bKCmvj43AuUDYOm8ghPF&si=w0Fp_JLXcF8024x8
+┃│❍𝐌𝐈 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 🍓
+┃│https://wa.me/543513610400
 ┃╰───────────────❍
 ╰━━━━━─「✪」─━━━━━
 ✪  𝙇𝙄𝙎𝙏𝘼 𝘿𝙀 𝘾𝙊𝙈𝘼𝙉𝘿𝙊𝙎
