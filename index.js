@@ -1,6 +1,6 @@
-//Base 100% Editable creditos a Naufrabot 
+//Base 100% Editable creditos a TK1 
 
-//Página oficial naufrabot.com
+//Página oficial TK1.com
 
 //Sígueme en todas mis redes para estar informados con las novedades de la base 
 
@@ -119,7 +119,7 @@ return admins
 async function startProo() {
   console.clear();
   console.log(banner.string);
-  console.log(chalk.cyanBright("🔥 NaufraBot Base"));
+  console.log(chalk.cyanBright("🔥 TK1 Base"));
 
   // Estado de sesión
   const { state, saveCreds } = await useMultiFileAuthState("./session");
@@ -789,7 +789,7 @@ enviar(`💫 ¿𝙌𝙪𝙞𝙚𝙧𝙚𝙨 𝙪𝙣 𝙗𝙤𝙩 𝙘𝙤𝙢�
 
 *_________👑 𝘾𝙊𝙉𝙏𝙍𝘼𝙏𝙀 👑__________*
 [🔥] *Puedes contratar el bot directamente desde nuestra pagina web oficial*👇
-[💬] https://naufrabot.com/`);
+[💬] https://TK1.com/`);
 break
 
 case 'grupos':
@@ -820,10 +820,10 @@ enviar(`𝘾𝙖𝙣𝙖𝙡𝙚𝙨 𝙤𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 𝙥�
 https://youtube.com/@naufrazapp_bots?si=Ie89Ben9B1Mn-jOU
 
 *➫ Sitio web*
-https://naufrabot.com/
+https://TK1.com/
 
 *➫ Instagram*
-https://www.instagram.com/naufrabot_official?igsh=cXFwemd0b213dWl1
+https://www.instagram.com/TK1_official?igsh=cXFwemd0b213dWl1
 
 *➫ Tik tok*
 https://www.tiktok.com/@naufra.zapp?_t=8lMjEw7d9SX&_r=1
@@ -842,7 +842,7 @@ case 'serbot':
 
 𝗟𝗮𝗺𝗲𝗻𝘁𝗮𝗯𝗹𝗲𝗺𝗲𝗻𝘁𝗲, *𝗲𝗻 𝗲𝘀𝘁𝗲 𝗯𝗼𝘁 𝗻𝗼 𝗽𝘂𝗲𝗱𝗲𝘀 𝘀𝗲𝗿 𝘀𝘂𝗯 𝗯𝗼𝘁* 𝗽𝗼𝗿𝗾𝘂𝗲 𝗲𝘀𝗼 𝗰𝗼𝗺𝗽𝗿𝗼𝗺𝗲𝘁𝗲 𝗹𝗼𝘀 𝗿𝗲𝗰𝘂𝗲𝗿𝘀𝗼𝘀 𝗱𝗲𝗹 𝘀𝗲𝗿𝘃𝗶𝗱𝗼𝗿 𝘆 𝗹𝗼 𝗵𝗮𝗰𝗲 𝗺𝗮𝘀 𝗹𝗲𝗻𝘁𝗼.  
 𝗦𝗶 𝗿𝗲𝗮𝗹𝗺𝗲𝗻𝘁𝗲 𝗾𝘂𝗲𝗿𝗲𝘀 𝘀𝗲𝗿 𝘀𝘂𝗯 𝗯𝗼𝘁, 𝗽𝘂𝗲𝗱𝗲𝘀 𝗼𝗯𝘁𝗲𝗻𝗲𝗿 𝗺𝗮𝘀 𝗶𝗻𝗳𝗼𝗿𝗺𝗮𝗰𝗶𝗼𝗻 𝗲𝗻 𝗻𝘂𝗲𝘀𝘁𝗿𝗮 𝗽𝗮𝗴𝗶𝗻𝗮 𝘄𝗲𝗯:  
-🔗 https://naufrabot.com/subbots/`;
+🔗 https://TK1.com/subbots/`;
 
         // Enviar el mensaje final
         await enviar(moneybot);
@@ -1072,7 +1072,7 @@ var pack = `
  ${pushname} `
 var author2 = ` 
 🤖 𝐁𝐨𝐭 🤖
- ⃟NaufraBot
+ ⃟TK1
 💐 𝐆𝐫𝐮𝐩𝐨💐
 ${groupName} `
 owgi = await getFileBuffer(boij2, 'image')
@@ -1089,7 +1089,7 @@ var pack = `
  ${pushname} `
 var author2 = ` 
 🤖 𝐁𝐨𝐭 🤖
- ⃟NaufraBot
+ ⃟TK1
 💐 𝐆𝐫𝐮𝐩𝐨💐
 ${groupName} `
 owgi = await getFileBuffer(boij, 'video')
@@ -1212,7 +1212,7 @@ case 'nik': case 'nic':
 case 'generarnick': case 'nick':
 
 try {
-if(!q.trim()) return enviar(`Escriba su nombre para enviar con letras especiales, Ejemplo: !nick NaufraBot`);
+if(!q.trim()) return enviar(`Escriba su nombre para enviar con letras especiales, Ejemplo: !nick TK1`);
 ABC = await fetchJson(`https://api.bronxyshost.com.br/api-bronxys/gerar_nick?nick=${encodeURI(q)}&apikey=${API_KEY_NAUFRA}`)
 AB = `*🗒️Lista a base de su nombre,* Escoja la mejor fuente que desea utilizar:\n\n`;
 for ( i of ABC) {
